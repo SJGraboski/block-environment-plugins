@@ -1,0 +1,1 @@
+{"version":3,"file":"style.css","mappings":"AAKA,0BACI","sources":["webpack:///./src/style.scss"],"sourcesContent":["/* style.scss\n * This file includes the styling for the block \n * for the front-end of WordPress\n * */\n\n.wp-block-fortune .prefix {\n    font-weight: bold;\n}"],"names":[],"sourceRoot":""}

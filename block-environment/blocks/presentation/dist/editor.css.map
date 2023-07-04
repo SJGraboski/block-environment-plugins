@@ -1,0 +1,1 @@
+{"version":3,"file":"editor.css","mappings":"AAGA,8CAEI","sources":["webpack:///./src/editor.scss"],"sourcesContent":["/* editor.scss\n * This file includes the styling for the block within the Block Editor.\n * */\n.presentation-title, \n.presentation-description {\n    padding: 0 1rem;\n}"],"names":[],"sourceRoot":""}
