@@ -92,14 +92,14 @@ registerBlockType('block-environment/presentation',
                             <PanelRow>
                                 {/* ToggleControl will appear as an on-and-off switch in the Block Editor.
                                   * The label property is the label that will appear above the field.
-                                  * The value property will be a boolean, controlling whether the switch is on or off.
+                                  * The checked property will be a boolean, controlling whether the switch is on or off.
                                   * onChange will fire whenever the user activates the toggle. When they do, 
                                   * we tell setAttributes to take the current boolean value of the block's featured attribute,
                                   * and reverse it (false becomes true, true becomes false)
                                   * */}
                                 <ToggleControl 
                                     label="Is This Featured?"  
-                                    value={ attributes.featured }  
+                                    checked={ attributes.featured }  
                                     onChange={ () => setAttributes( { featured: !attributes.featured } ) }
                                 />
                             </PanelRow>

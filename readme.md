@@ -14,6 +14,7 @@ Inside this plugin, I've included two example blocks, both of which have files b
      - For this block to work properly, you will also need to drag the `fortune-post` folder into `wp-content/plugins`, and activate that plugin in the WordPress Dashboard. Your theme will also need to be compatible with the Full-Site Editor (see Important WordPress Documentation section).
 
 3. To make edits to these blocks, or to create your own, you will need to do the following.
+   1. [Install node.js if you haven't already](https://nodejs.dev/en/learn/how-to-install-nodejs/).
    1. In your CLI of choice, run `npm install` at the root of the `block-environemnt` folder (make sure you do this *after* it's in your WordPress environment's `wp-content/plugins` folder). 
    2. When you're working on edits to these examples or coding your own blocks, run `npx webpack -w`. This will fire webpack in watch mode, transpiling all of the code imported by `frontend.js` and `backend.js` in each block's directory. Otherwise, your code will not work in the browser.
 

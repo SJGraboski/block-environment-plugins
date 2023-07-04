@@ -78,7 +78,7 @@ registerBlockType('block-environment/presentation', {
       className: "presentation-description"
     }, wp.element.createElement(InnerBlocks, null)), wp.element.createElement(InspectorControls, null, wp.element.createElement(Panel, null, wp.element.createElement(PanelBody, null, wp.element.createElement(PanelRow, null, wp.element.createElement(ToggleControl, {
       label: "Is This Featured?",
-      value: attributes.featured,
+      checked: attributes.featured,
       onChange: function onChange() {
         return setAttributes({
           featured: !attributes.featured

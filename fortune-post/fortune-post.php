@@ -7,6 +7,8 @@ Version: 1
 Description: Create a Fortune Custom Post Type and two default fortunes. For use with the Fortune Display block example of the Block Environment plugin 
 */
 
+namespace fortune_post;
+
 // Register the fortune custom post type.
 function register_custom_post_type() {
 	
@@ -53,4 +55,4 @@ function register_custom_post_type() {
         ) );
     }
 }
-add_action( 'init', 'block_environment\register_custom_post_type' );
+add_action( 'init', 'fortune_post\register_custom_post_type' );
