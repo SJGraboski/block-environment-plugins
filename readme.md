@@ -49,21 +49,21 @@ As long as you include the import code in your block's `frontend.js` and `backen
 
 ### Block Building
 
-["Building Custom Gutenberg Blocks: The Definitive Block Development Tutorial", tutorial by Carlo Daniele](https://kinsta.com/blog/gutenberg-blocks/)
+- ["Building Custom Gutenberg Blocks: The Definitive Block Development Tutorial", tutorial by Carlo Daniele](https://kinsta.com/blog/gutenberg-blocks/)
 
 ### Full-Site Editing
 
-[*Full site editing for theme developers*, course by Carolina Nymark](https://fullsiteediting.com/courses/full-site-editing-for-theme-developers/)
+- [*Full site editing for theme developers*, course by Carolina Nymark](https://fullsiteediting.com/courses/full-site-editing-for-theme-developers/)
 
-["A Deep Introduction to WordPress Block Themes", tutorial by Ganesh Dahal](https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/)
+- ["A Deep Introduction to WordPress Block Themes", tutorial by Ganesh Dahal](https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/)
 
 ### ES6 and React
 
 To take advantage of WordPress Blocks, you will need some familiarity with ES6 and React. I personally found the following sources helpful.
 
-[*You Don't Know JS: ES6 & Beyond*, book by Kyle Simpson](https://learning.oreilly.com/library/view/you-dont-know/9781491905241/).
+- [*You Don't Know JS: ES6 & Beyond*, book by Kyle Simpson](https://learning.oreilly.com/library/view/you-dont-know/9781491905241/).
 
-[*JavaScript Everywhere: Building Cross-Platform Applications with GraphQL, React, React Native, and Electron*, book by Adam D. Scrott](https://learning.oreilly.com/library/view/javascript-everywhere/9781492046974/)
+- [*JavaScript Everywhere: Building Cross-Platform Applications with GraphQL, React, React Native, and Electron*, book by Adam D. Scrott](https://learning.oreilly.com/library/view/javascript-everywhere/9781492046974/)
 
-[*Modern React with Redux*, course by Stephen Girder](https://www.udemy.com/course/react-redux/)
+- [*Modern React with Redux*, course by Stephen Girder](https://www.udemy.com/course/react-redux/)
 
